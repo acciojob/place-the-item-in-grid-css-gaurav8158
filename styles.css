@@ -4,8 +4,8 @@
 	width:200px;
   height:200px;
 	display:grid;
-	display:grid;
-  grid-template-columns: repeat(2, 60px);
+  grid-template-columns: repeat(2, 100px);
+ grid-template-rows:repeat(2, 100px);
 }
 .item{
 	border:1px solid black;
